@@ -1,0 +1,266 @@
+{
+    "status": "ok",
+    "totalResults": 36,
+    "articles": [
+        {
+            "source": {
+                "id": null,
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "Covid inquiry: Government will 'probably lose legal case', says minister - BBC",
+            "description": "Science minister George Freeman thinks the challenge is set to fail but says it is a \"point worth testing\".",
+            "url": "https://www.bbc.com/news/uk-politics-65784392",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/DCBC/production/_125680565_gettyimages-1388407308.jpg",
+            "publishedAt": "2023-06-02T03:02:18Z",
+            "content": "The government is likely to lose its legal case against the Covid inquiry, a government minister has said.\r\nIt comes after the government said it would seek a judicial review over the inquiry's deman… [+3375 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Celine Alkhaldi",
+            "title": "Jordan royals marry into Saudi family with ties to MBS - CNN",
+            "description": "Jordan’s heir to the throne on Thursday married into one of Saudi Arabia’s prominent business families in a glitzy ceremony attended by international royals and heads of state.",
+            "url": "https://www.cnn.com/2023/06/01/middleeast/jordan-saudi-royal-wedding-intl/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230601120444-jordan-crown-prince-rajwa-al-saif-wedding-060123.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-06-02T02:50:00Z",
+            "content": "Jordans heir to the throne on Thursday married into one of Saudi Arabias prominent business families in a glitzy ceremony attended by international royals and heads of state.\r\nFrom Britains Prince an… [+2082 chars]"
+        },
+        {
+            "source": {
+                "id": "al-jazeera-english",
+                "name": "Al Jazeera English"
+            },
+            "author": "Al Jazeera",
+            "title": "Russia says US intelligence hacked thousands of iPhones - Al Jazeera English",
+            "description": "FSB accuses Apple of working closely with US intelligence agencies after disclosing alleged ‘intelligence action’.",
+            "url": "https://www.aljazeera.com/economy/2023/6/2/russia-says-us-intelligence-hacked-thousands-of-iphones",
+            "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2023/05/2023-05-03T133703Z_673531758_RC21R0AT731C_RTRMADP_3_UKRAINE-CRISIS-RUSSIA-KREMLIN-1683129460.jpg?resize=1920%2C1440",
+            "publishedAt": "2023-06-02T02:49:49Z",
+            "content": "Russia has accused United States intelligence agencies of hacking thousands of iPhones belonging to Russian users and foreign diplomats in the country.\r\nRussias Federal Security Service (FSB) said on… [+1991 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Steve Almasy",
+            "title": "14-year-old Dev Shah of Florida wins Scripps National Spelling Bee with final word ‘psammophile’ - CNN",
+            "description": "Dev Shah, a 14-year-old from Largo, Florida, won the 2023 Scripps National Spelling Bee on Thursday night, correctly spelling psammophile to take the $50,000 first prize.",
+            "url": "https://www.cnn.com/2023/06/01/us/scripps-spelling-bee-2023-winner/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230601220846-01-dev-shah-wins-scripps-spelling-bee.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-06-02T02:18:00Z",
+            "content": "Dev Shah, a 14-year-old from Largo, Florida, won the 2023 Scripps National Spelling Bee on Thursday night, correctly spelling psammophile to take the $50,000 first prize.\r\nIts surreal. My legs are st… [+1544 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "Exclusive: US seeking explosives in Japan for Ukraine artillery shells - Reuters",
+            "description": "The United States is seeking to secure supplies of TNT in Japan for 155mm artillery shells, as Washington rushes <a href=\"https://www.reuters.com/graphics/UKRAINE-CRISIS/ARMS/lgvdkoygnpo/\" target=\"_blank\">weapons and ammunition</a> to Ukraine for a counteroff…",
+            "url": "https://www.reuters.com/world/asia-pacific/us-seeking-explosives-japan-ukraine-artillery-shells-sources-2023-06-02/",
+            "urlToImage": "https://www.reuters.com/resizer/v6e3QgvKWC2y-1nCrtm9aLNuV9M=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/ESB7X3WPYBNETOE5WPQ6BJLA5A.jpg",
+            "publishedAt": "2023-06-02T02:17:18Z",
+            "content": "TOKYO, June 2 (Reuters) - The United States is seeking to secure supplies of TNT in Japan for 155mm artillery shells, as Washington rushes weapons and ammunition to Ukraine for a counteroffensive aga… [+5651 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNBC"
+            },
+            "author": "Kevin Breuninger",
+            "title": "Judge denies DeSantis bid to disqualify him from Disney case, but recuses himself anyway because his relative owns company's stock - CNBC",
+            "description": "The judge made the decision to remove himself from the case despite denying DeSantis' motion for him to be disqualified.",
+            "url": "https://www.cnbc.com/2023/06/02/judge-in-disney-desantis-case-recuses-over-stock-conflict.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107249762-1685668111712-gettyimages-1492413522-0j6a7528_gjpl5pbu.jpeg?v=1685671817&w=1920&h=1080",
+            "publishedAt": "2023-06-02T02:10:00Z",
+            "content": "A federal judge overseeing Disney's civil free speech lawsuit against Florida Gov. Ron DeSantis recused himself from the case Thursday, days after learning that one of his relatives owns stock in The… [+3576 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Hollywood Reporter"
+            },
+            "author": "Carly Thomas",
+            "title": "Jacky Oh, Former ‘Wild ‘N Out’ Castmember, Dies at 32 - Hollywood Reporter",
+            "description": "She shares three children with partner D.C. Young Fly, whom she met on the Nick Cannon-created series.",
+            "url": "https://www.hollywoodreporter.com/news/general-news/jacky-oh-dead-former-wild-n-out-castmember-1235505832/",
+            "urlToImage": "https://www.hollywoodreporter.com/wp-content/uploads/2023/06/Jacky-Oh-obit-template-getty-1128557653-H-2023.jpg?w=1024",
+            "publishedAt": "2023-06-02T01:20:19Z",
+            "content": "Jacky Oh, a former castmember on Wild ‘N Out and longtime partner of D.C. Young Fly, has died. She was 32.\r\nA BET Media Group spokesperson confirmed Jacky Oh’s death, who’s whose real name is Jacklyn… [+1238 chars]"
+        },
+        {
+            "source": {
+                "id": "espn",
+                "name": "ESPN"
+            },
+            "author": "Tim MacMahon",
+            "title": "Ja Morant ruling coming after NBA Finals, Adam Silver says - ESPN - ESPN",
+            "description": "The latest sanctions, if any, that the NBA plans to levy against Memphis guard Ja Morant for his second instance of displaying a gun on social media will be announced shortly after the Finals, commissioner Adam Silver said Thursday.",
+            "url": "https://www.espn.com/nba/story/_/id/37776933/ja-morant-ruling-coming-nba-finals-adam-silver-says",
+            "urlToImage": "https://a1.espncdn.com/combiner/i?img=%2Fphoto%2F2022%2F0914%2Fr1062174_1296x729_16%2D9.jpg",
+            "publishedAt": "2023-06-02T00:49:00Z",
+            "content": "DENVER -- NBA commissioner Adam Silver indicated that he has reached a decision regarding the league office's looming disciplinary action against Memphis Grizzlies superstar guard Ja Morant but would… [+4394 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "Danica Creahan",
+            "title": "2023 NBA Finals: How to watch Heat vs. Nuggets Game 1 tonight, schedule, TV channel and more - Yahoo Sports",
+            "description": "The Denver Nuggets will face off against the Miami Heat tonight in the 2023 NBA Finals. Here's how you can watch all the action on the court.",
+            "url": "https://sports.yahoo.com/nba-finals-watch-tonight-schedule-143511580.html",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/FMWJ.2tATS0H9owUtjhUlA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2023-05/700cf9f0-ff18-11ed-bfdf-f74698183121",
+            "publishedAt": "2023-06-02T00:41:00Z",
+            "content": "The Nuggets will face the Heat with a home-court advantage in the 2023 NBA Finals. (Photo by: Megan Briggs/Getty Images)\r\nTonight's the night, it's time for the 2023 NBA Finals. Following a heated ba… [+2530 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Reuters",
+            "title": "Twitter’s head of trust and safety says she has resigned - CNN",
+            "description": "Twitter’s head of trust and safety Ella Irwin told Reuters on Thursday that she has resigned from the social media company.",
+            "url": "https://www.cnn.com/2023/06/01/tech/twitter-head-of-trust-and-safety-resigns/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230601202921-twitter-headquarters-122022.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-06-02T00:33:00Z",
+            "content": "Twitters head of trust and safety Ella Irwin told Reuters on Thursday that she has resigned from the social media company.\r\nIn the role, Irwin oversaw content moderation, but the company has faced cr… [+483 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Paradise Afshar,Alaa Elassar",
+            "title": "Judge seals evidence in criminal case of White homeowner accused of shooting Black teen who went to the wrong house - CNN",
+            "description": "A Missouri judge granted a motion Thursday to seal evidence in the criminal case against Andrew Lester, who allegedly shot and wounded Ralph Yarl, a Black teen, after the 16-year-old went to the wrong home to pick up his siblings.",
+            "url": "https://www.cnn.com/2023/06/01/us/ralph-yarl-shooter-court-case/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230417173520-02-ralph-pual-yarl.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-06-02T00:21:00Z",
+            "content": "A Missouri judge granted a motion Thursday to seal evidence in the criminal case against Andrew Lester, who allegedly shot and wounded Ralph Yarl, a Black teen, after the 16-year-old went to the wron… [+1980 chars]"
+        },
+        {
+            "source": {
+                "id": "the-washington-post",
+                "name": "The Washington Post"
+            },
+            "author": "Joshua Partlow, Yvonne Wingett Sanchez, Isaac Stanley-Becker",
+            "title": "Phoenix area can't meet groundwater demands over next century - The Washington Post",
+            "description": "A new report amounts to a chilling warning for a region that has been a development hot spot for new residents and high-tech businesses.",
+            "url": "https://www.washingtonpost.com/climate-environment/2023/06/01/phoenix-water-shortage-population-growth/",
+            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/2F6655DXILK63NHXAAIDAERPLI_size-normalized.JPG&w=1440",
+            "publishedAt": "2023-06-01T23:31:00Z",
+            "content": "Comment on this story\r\nComment\r\nThere is not enough groundwater underneath the Phoenix metropolitan area to meet projected demands over the next century, a finding that could threaten the current hom… [+9736 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Daily Mail"
+            },
+            "author": "Carly Johnson",
+            "title": "Zendaya has heart-eyes for boyfriend Tom Holland as Spider-Man hunk rings in his 27th birthday - Daily Mail",
+            "description": "Tom Holland turned 27-years-old on Thursday and is currently celebrating on a tropical getaway with his girlfriend Zendaya.",
+            "url": "https://www.dailymail.co.uk/tvshowbiz/article-12150395/Zendaya-heart-eyes-boyfriend-Tom-Holland-Spider-Man-hunk-rings-27th-birthday.html",
+            "urlToImage": "https://i.dailymail.co.uk/1s/2023/06/02/00/71675251-0-image-a-10_1685660922040.jpg",
+            "publishedAt": "2023-06-01T23:18:33Z",
+            "content": "Tom Holland turned 27-years-old on Thursday and is currently celebrating on a tropical getaway with his girlfriend Zendaya.\r\nAnd to honor his birthday on social media, the Spider-Man star shared a hu… [+5060 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Oklahoman.com"
+            },
+            "author": "Ryan Aber",
+            "title": "OU softball shuts out Stanford in Women's College World Series opener - Oklahoman.com",
+            "description": "Jayda Coleman came up with the big hit in the fifth and Jordy Bahl was sensational in the circle, helping lift OU to a 2-0 win over Stanford.",
+            "url": "https://www.oklahoman.com/story/sports/college/sooners/2023/06/01/ou-vs-stanford-score-ncaa-softball-tournament-wcws-updates-womens-college-world-series/70277605007/",
+            "urlToImage": "https://www.oklahoman.com/gcdn/presto/2023/06/01/NOKL/1348c04e-12e4-45ed-a382-7c15b74dfa6e-CLX11722.jpg?crop=4155,2338,x0,y0&width=3200&height=1801&format=pjpg&auto=webp",
+            "publishedAt": "2023-06-01T23:14:31Z",
+            "content": "There was a brief moment in OUs Womens College World Series opener where Sooners coach Patty Gasso felt the frustration starting to boil.\r\nStanford starter NiJaree Canady frustrated OU for much of th… [+4214 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "YouTube"
+            },
+            "author": null,
+            "title": "Bill to raise federal debt ceiling awaits final passage in Senate - PBS NewsHour",
+            "description": "The deal to raise the federal debt ceiling is moving toward final passage in Congress. Pressure is on the Senate after the House approved the bill Wednesday ...",
+            "url": "https://www.youtube.com/watch?v=y0wgU4U-uXg",
+            "urlToImage": "https://i.ytimg.com/vi/y0wgU4U-uXg/maxresdefault.jpg",
+            "publishedAt": "2023-06-01T22:21:03Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CBS Sports"
+            },
+            "author": "",
+            "title": "SEC to play eight conference games but eliminate divisions for 2024 season once Texas, Oklahoma join - CBS Sports",
+            "description": "The SEC will reevaluate its college football scheduling format for the 2025 season and beyond at a later date",
+            "url": "https://www.cbssports.com/college-football/news/sec-to-play-eight-conference-games-but-eliminate-divisions-for-2024-season-once-texas-oklahoma-join/",
+            "urlToImage": "https://sportshub.cbsistatic.com/i/r/2019/07/11/e2e481b8-5684-4855-bfac-31906ba23f5d/thumbnail/1200x675/3b7318a707e605bfa8fb24a3dcd55c99/usatsi-10160639-220956-lowres.jpg",
+            "publishedAt": "2023-06-01T21:59:00Z",
+            "content": "DESTIN, Fla. -- Temporarily pausing long-term conversations about whether to increase its intraconference schedule, the SEC on Thursday decided to continue playing eight league games for the 2024 sea… [+3189 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "What makes us human? Primate genome study offers some clues - Reuters",
+            "description": "The most comprehensive genomic study ever on primates - a group whose membership includes lemurs, monkeys, apes and people - has revealed pivotal genetic traits that are uniquely <a href=\"/science/human-genome-reboot-better-reflects-global-population-2023-05-…",
+            "url": "https://www.reuters.com/science/what-makes-us-human-primate-genome-study-offers-some-clues-2023-06-01/",
+            "urlToImage": "https://www.reuters.com/resizer/s9PL42FJocIw1k4QNspot6UZjNE=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/ETDPP4FADFKPBN3GLCGDKQLJ4Q.jpg",
+            "publishedAt": "2023-06-01T21:52:00Z",
+            "content": "WASHINGTON, June 1 (Reuters) - The most comprehensive genomic study ever on primates - a group whose membership includes lemurs, monkeys, apes and people - has revealed pivotal genetic traits that ar… [+4104 chars]"
+        },
+        {
+            "source": {
+                "id": "ars-technica",
+                "name": "Ars Technica"
+            },
+            "author": "Beth Mole",
+            "title": "Dangerous brain abscesses spiked in US kids as COVID restrictions dropped - Ars Technica",
+            "description": "Cases are on the decline, but still above baseline rates.",
+            "url": "https://arstechnica.com/science/2023/06/dangerous-brain-abscesses-spiked-in-us-kids-as-covid-restrictions-dropped/",
+            "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/06/GettyImages-151036421-760x380.jpeg",
+            "publishedAt": "2023-06-01T21:45:28Z",
+            "content": "Enlarge/ An MRI image of a brain with an abscess causing seizures. \r\n20 with \r\nAs pandemic restrictions eased, pediatricians around the country saw alarming upticks of rare brain abscesses in childre… [+5390 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "YouTube"
+            },
+            "author": null,
+            "title": "Amy Duggar SLAMS Josh Duggar, Shares Message For His Wife Anna Duggar - Access Hollywood",
+            "description": "Amy Duggar King spoke with Access Hollywood about “Shiny Happy People: Duggar Family Secrets” and what viewers can expect to see. She also speaks out about J...",
+            "url": "https://www.youtube.com/watch?v=JvgkEvN1EKA",
+            "urlToImage": "https://i.ytimg.com/vi/JvgkEvN1EKA/maxresdefault.jpg",
+            "publishedAt": "2023-06-01T21:35:44Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Healthnews.com"
+            },
+            "author": "Healthnews.com",
+            "title": "Sucralose May Damage DNA, New Study Says | HealthNews - Healthnews.com",
+            "description": null,
+            "url": "https://healthnews.com/news/chemical-in-artificial-sweetener-may-damage-dna/",
+            "urlToImage": null,
+            "publishedAt": "2023-06-01T21:27:47Z",
+            "content": null
+        }
+    ]
+}
